@@ -6,5 +6,8 @@ module.exports = {
   },
   images: {
     domains: ['1000logos.net', 'platform-lookaside.fbsbx.com', 'static.xx.fbcdn.net']
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   }
 }
